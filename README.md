@@ -1,24 +1,13 @@
-# app-vuetify
+# Hello world in Vuetify
 
-## Project setup
+### Project setup
 ```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
+$ npm install
 ```
 
-### Compiles and minifies for production
+### Run project
 ```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
+$ npm run serve
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Visit http://localhost:8080/
